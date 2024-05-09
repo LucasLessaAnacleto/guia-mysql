@@ -10,7 +10,7 @@ avançadas de administração e consulta de bancos de dados.
 [Documentação SQL da w3schools](https://www.w3schools.com/sql/default.asp), essa é uma documentação do SQL e tem vários artigos mais especificamente do MySQL, que utilizei muito
 nos estudos de SQL/MySQL para criar esse guia.
 
-Iremos dividir as sessões em DDL, DML, DQL, DCL que representam categorias de instruções ou comandos na linguagem SQL, cada uma com uma finalidade específica, e que é de extrema importancia para qualquer um que queira aprender SQL. [Veja aqui](https://github.com/lucaslessanacleto/guia-mysql/tipos_comandos_sql.jpg);
+Iremos dividir as sessões em DDL, DML, DQL, DCL que representam categorias de instruções ou comandos na linguagem SQL, cada uma com uma finalidade específica, e que é de extrema importancia para qualquer um que queira aprender SQL. [Veja aqui](https://raw.githubusercontent.com/LucasLessaAnacleto/guia-mysql/main/tipos_comandos_sql.jpg);
 
 ## ÍNDICE
 
@@ -1085,7 +1085,7 @@ A Linguagem de Consulta de Dados (DQL) é usada para recuperar informações de 
 
 Exemplos de comandos DQL incluem SELECT, que é usado para recuperar dados específicos de uma ou mais tabelas, e outras cláusulas como WHERE, ORDER BY e GROUP BY e muitas outras, que são usadas para filtrar, classificar e agrupar os resultados da consulta e etc.
 
-Iremos utilizar bastante esse banco modelo [disponível aqui](https://github.com/lucaslessanacleto/guia-mysql/modelo.sql);
+Iremos utilizar bastante esse banco modelo [disponível aqui](https://github.com/LucasLessaAnacleto/guia-mysql/blob/main/modelo.sql);
 
 ## Aliases
 
@@ -1288,7 +1288,7 @@ OR (status = 'premium' OR (compras_totais > 1000 AND fidelidade >= 0.8));
 ```
 Se a idade do cliente estiver entre 25 e 40 anos E a cidade do cliente for "São Paulo" ou "Rio de Janeiro" OU for um cliente premiu ou se compras_totais for maior que 1000 e fidelidade do cliente for maior ou igual a 0.8, nesse caso retorna todas as colunas do cliente.
 
-Isso foi para mostrar algumas condições mais complexas que geralmente pode ser necessárias em um cenário real, porém a maioria das colunas utilizadas ai são fictícias para dar mais volume as consultas, porém não estão no banco de dados modelo: [modelo.sql](https://github.com/lucaslessanacleto/guia-mysql/modelo.sql).
+Isso foi para mostrar algumas condições mais complexas que geralmente pode ser necessárias em um cenário real, porém a maioria das colunas utilizadas ai são fictícias para dar mais volume as consultas, porém não estão no banco de dados modelo: [modelo.sql](https://github.com/LucasLessaAnacleto/guia-mysql/blob/main/modelo.sql).
 
 ### IN
 

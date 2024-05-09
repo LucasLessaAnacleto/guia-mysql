@@ -1,16 +1,16 @@
 # Guia MySQL
 
-Esse é um repositório de um mini guia de comandos do 'mysql', que construí pesquisando e lendo documentação do MySQL.
+Esse repositório é um guia de instruções do MySQL. Meu objetivo era colocar em um único lugar, conceitos e exemplos de vários assuntos importantes do MySQL
+de uma forma objetiva e prática, é útil para entender ou relembrar como algumas instruções funcionam. 
 
-A motivação inicial, foi aprender a utilizar o MySQL pelo o terminal, pois até então só tinha utilizado no phpmyadmin ou MySQL Workbench, queria fazer tudo no próprio terminal do vscode e não precisar instalar um programa pesado como um Sistema de Gerenciamento de Banco de Dados (DBMS) para visualizar os bancos, tabelas e etc.
+O MySQL é um dos sistemas de gerenciamento de banco de dados mais populares e amplamente utilizados em todo o mundo. 
+Este guia foi criado para ajudá-lo a aprender e dominar os fundamentos do MySQL, desde conceitos básicos até técnicas 
+avançadas de administração e consulta de bancos de dados.
 
-Mas no fim, acabei me aprofundando mais nos comando SQL e aprendi muito mais do que eu estava planejando para criar esse repositório, que será uma 'colinha', para quando eu for utilizar o MySQL.
+[Documentação SQL da w3schools](https://www.w3schools.com/sql/default.asp), essa é uma documentação do SQL e tem vários artigos mais especificamente do MySQL, que utilizei muito
+nos estudos de SQL/MySQL para criar esse guia.
 
-Com essa motivação, eu fiz esse guia para eu poder consultar quando esquecer de algum comando.
-
-[Documentação SQL da w3schools](https://www.w3schools.com/sql/default.asp), essa é uma documentação do SQL e tem vários artigos mais especificamente do MySQL, que pode ser encontrado facilmente no menu lateral da página.
-
-Iremos dividir as sessões em DDL, DML, DQL, DCL que representam categorias de instruções ou comandos na linguagem SQL, cada uma com uma finalidade específica, e que é de extrema importancia para qualquer um que queira aprender SQL.
+Iremos dividir as sessões em DDL, DML, DQL, DCL que representam categorias de instruções ou comandos na linguagem SQL, cada uma com uma finalidade específica, e que é de extrema importancia para qualquer um que queira aprender SQL. [Veja aqui](https://github.com/lucaslessanacleto/guia-mysql/tipos_comandos_sql.jpg);
 
 ## ÍNDICE
 

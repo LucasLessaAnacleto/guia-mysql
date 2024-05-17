@@ -44,6 +44,10 @@ Iremos dividir as sessões em DDL, DML, DQL, DCL que representam categorias de i
     - **[CONSTRAINTS](#constraints)**
         1. [Chave primária](#chave-primária)
         2. [Chave estrangeira](#chave-estrangeira)
+        3. [NULL e NOT NULL](#null-e-not-null)
+        4. [UNIQUE](#unique)
+        5. [DEFAULT](#default)
+        6. [CHECK](#check)
 
 4. **[DML (Data Manipulation Language)](#dml-data-manipulation-language)**
     - **INSERT**
